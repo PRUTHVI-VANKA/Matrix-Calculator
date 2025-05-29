@@ -1,15 +1,22 @@
-# Matrix-Calculator
 
-## README: Simple Matrix Operations
+---
 
-This Python script performs basic matrix operations using the NumPy library. It allows the user to create two matrices of specified dimensions and then choose to add, subtract, or multiply them. It can also transpose or find the inverse of a matrix.
+### 4. **Matrix Calculator**
 
-### Key Features:
+```markdown
+# Matrix Calculator
 
--   Matrix creation with user-defined rows and columns.
--   Functions for addition, subtraction, and multiplication of matrices.
--   Functions for transposing and inverting a matrix.
--   User-friendly menu for operation selection.
+A Python-based calculator for matrix operations including addition, subtraction, multiplication, and inversion.
 
-To execute, run the script and follow the prompts to enter the matrix dimensions and elements.
+## Features
+- Simple CLI-based interface
+- Supports basic matrix operations
+- Error handling for incompatible inputs
 
+## Technologies Used
+- Python
+- NumPy
+
+## How to Run
+```bash
+python matrix_calculator.py
